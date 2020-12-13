@@ -1,0 +1,1 @@
+https://github.com/pimylifeup/Adafruit_Python_GPIO/tarball/master#egg=Adafruit-GPIO-0.4.0
